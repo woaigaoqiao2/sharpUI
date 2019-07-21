@@ -2,7 +2,7 @@ import  unittest,os
 from BeautifulReport import BeautifulReport
 import datetime
 import sys
-sys.path.append('E:\sharpUI')
+sys.path.append('C:\Program Files (x86)\Jenkins\workspace\sharp')
 
 date = datetime.datetime.now().strftime('%Y%m%d%H%M%S')
 #获取项目路径
