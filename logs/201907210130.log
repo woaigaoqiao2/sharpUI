@@ -1,0 +1,389 @@
+2019-07-21 02:14:47,612-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:14:48,713-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:14:48,756-acceptverify.py-INFO-等待框消失
+2019-07-21 02:14:49,256-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:14:49,256-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:14:49,383-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:15:08,057-TestAcceptVerify.py-INFO-现在开始测试：用集装箱号查询
+2019-07-21 02:15:09,058-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:09,091-acceptverify.py-INFO-等待框消失
+2019-07-21 02:15:09,591-basepage-INFO-在输入集装箱号对元素：('xpath', '//input[@aria-label= "コンテナNO"]') 进行输入操作
+2019-07-21 02:15:09,591-basepage-INFO-查找元素：('xpath', '//input[@aria-label= "コンテナNO"]')
+2019-07-21 02:15:10,423-acceptverify.py-INFO-输入集装箱号码
+2019-07-21 02:15:10,423-TestAcceptVerify.py-INFO-输入集装箱号码:zUXGOt6
+2019-07-21 02:15:10,424-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:15:10,424-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:15:10,537-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:15:10,537-TestAcceptVerify.py-INFO-点击検索按钮
+2019-07-21 02:15:12,549-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:12,669-acceptverify.py-INFO-等待框消失
+2019-07-21 02:15:13,170-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:15:13,286-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:15:15,751-TestAcceptVerify.py-INFO-获取查询到的结果[['check_box_outline_blank', 'zUXGOt6', '999', 'zUXGOt6', '2019-07-21', '10:00:00', 'zUXGOt6', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'zUXGOt6', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-21', '', 'ジャパネット佐屋センター', '']]
+2019-07-21 02:15:15,752-TestAcceptVerify.py-INFO-测试用例：用集装箱号查询  测试通过
+2019-07-21 02:15:47,722-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:15:48,722-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:48,753-acceptverify.py-INFO-等待框消失
+2019-07-21 02:15:49,253-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:15:49,253-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:15:49,406-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:15:49,406-TestAcceptVerify.py-INFO-现在开始测试：只输入eta开始时间
+2019-07-21 02:15:50,407-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:50,440-acceptverify.py-INFO-等待框消失
+2019-07-21 02:15:51,941-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:52,022-acceptverify.py-INFO-等待框消失
+2019-07-21 02:15:52,522-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETA"]')
+2019-07-21 02:15:52,522-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETA"]')
+2019-07-21 02:15:52,789-acceptverify.py-INFO-2019-07-01的年月：20190701
+2019-07-21 02:15:53,790-basepage-INFO-在获取元素：('xpath', '//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:15:53,790-basepage-INFO-查找元素：('xpath', '//strong[contains(text(),"年")]')
+2019-07-21 02:15:53,845-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:15:53,845-basepage-INFO-在点击元素：('xpath', '//div[text()="1日"]')
+2019-07-21 02:15:53,845-basepage-INFO-查找元素：('xpath', '//div[text()="1日"]')
+2019-07-21 02:15:54,036-acceptverify.py-INFO-输入EAT开始时间:2019-07-01
+2019-07-21 02:15:54,037-TestAcceptVerify.py-INFO-输入ETA起始时间：2019-07-01和ETA结束时间：null
+2019-07-21 02:15:54,037-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:15:54,037-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:15:54,226-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:15:56,226-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:56,252-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:15:57,252-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:57,298-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:15:58,302-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:58,523-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:15:59,524-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:15:59,561-acceptverify.py-INFO-等待框消失
+2019-07-21 02:16:00,061-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:16:00,106-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:16:08,803-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', '5t7ipHS', '999', '5t7ipHS', '', '', '5t7ipHS', '納入指示済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', '5t7ipHS', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-15'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'FA41iMQ', '999', 'FA41iMQ', '', '', 'FA41iMQ', '受入確認済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', 'FA41iMQ', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-21'], ['check_box_outline_blank', 'DzyRABI', '999', 'DzyRABI', '2019-07-17', '18:00:00', 'DzyRABI', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'DzyRABI', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-17'], ['check_box_outline_blank', 'Wp8EfcA', '999', 'Wp8EfcA', '2019-07-20', '10:00:00', 'Wp8EfcA', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'Wp8EfcA', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20']]
+2019-07-21 02:16:08,804-TestAcceptVerify.py-INFO-测试用例：只输入eta开始时间  测试通过
+2019-07-21 02:16:42,325-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:16:43,325-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:16:43,374-acceptverify.py-INFO-等待框消失
+2019-07-21 02:16:43,874-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:16:43,874-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:16:44,023-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:16:44,023-TestAcceptVerify.py-INFO-现在开始测试：只输入eta结束时间
+2019-07-21 02:16:45,023-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:16:45,059-acceptverify.py-INFO-等待框消失
+2019-07-21 02:16:46,559-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:16:46,584-acceptverify.py-INFO-等待框消失
+2019-07-21 02:16:47,084-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETA"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:16:47,084-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETA"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:16:47,258-acceptverify.py-INFO-2019-07-09的年月：20190709
+2019-07-21 02:16:48,258-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"content__active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:16:48,258-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"content__active")]//strong[contains(text(),"年")]')
+2019-07-21 02:16:48,312-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:16:48,313-basepage-INFO-在点击元素：('xpath', '//button[contains(@class,"flat")]//div[text()="9日"]')
+2019-07-21 02:16:48,313-basepage-INFO-查找元素：('xpath', '//button[contains(@class,"flat")]//div[text()="9日"]')
+2019-07-21 02:16:48,791-acceptverify.py-INFO-输入EAT结束时间:2019-07-09
+2019-07-21 02:16:48,792-TestAcceptVerify.py-INFO-输入ETA起始时间：null和ETA结束时间：2019-07-09
+2019-07-21 02:16:48,792-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:16:48,793-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:16:49,164-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:16:51,166-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:16:51,216-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:16:52,216-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:16:52,247-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:16:53,248-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:16:53,402-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:16:54,404-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:16:54,433-acceptverify.py-INFO-等待框消失
+2019-07-21 02:16:54,933-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:16:54,981-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:17:02,958-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', '19S0000405', '006', '19S0000405', '2019-07-19', '20:42:00', 'SITYATOG308382', '受入確認済', '2019-06-25', '2019-06-22', '2019-06-22', '東京港', 'A12TC32AEA', 'ＡＱＵＯＳ（ＬＣＤ\u3000ＴＶ）', '910', 'SITC SHENZHEN', '029009:SJL（株）－阪急阪神エクスプレス', '029010:SJL－横浜物流（株）', '40FEET(HIGH CUBE)', '2019-06-24', '', '栃木物流センター（３２－００）', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '19S0000317', '002', '', '2019-07-21', '01:39:00', 'SNL9SHJLA1E0095', '納入指示済', '2019-06-17', '2019-06-13', '2019-06-13', '東京港', 'A1AUJ22NY', 'エアコン室外機', '496', 'SINOTRANS SHANGHAI', '029010:SJL－横浜物流（株）', '029011:SJL－鴻池運輸（株）', '40FEET(HIGH CUBE)', '2019-06-19', '', '首都圏物流センター（市川）３６－００', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', '5t7ipHS', '999', '5t7ipHS', '', '', '5t7ipHS', '納入指示済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', '5t7ipHS', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-15'], ['check_box_outline_blank', '19S0000140', '005', 'TESTNoUp150444', '2019-07-17', '15:05:00', 'GAT0139200', '納入指示済', '2019-06-19', '2019-06-11', '2019-06-11', '大阪港', 'A2FUM30D', '空気清浄機', '980', 'TS OSAKA', '029000:SJL（株）－日新', '029005:SJL（株）－トレーディア', '40FEET(HIGH CUBE)', '2019-06-21', '', '西日本ＬＣ（大阪物流Ｃ）（０２－００）', '2019-07-18'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19']]
+2019-07-21 02:17:02,959-TestAcceptVerify.py-INFO-测试用例：只输入eta结束时间  测试通过
+2019-07-21 02:17:37,446-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:17:38,448-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:38,496-acceptverify.py-INFO-等待框消失
+2019-07-21 02:17:38,996-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:17:38,996-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:17:39,139-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:17:39,140-TestAcceptVerify.py-INFO-现在开始测试：输入eta开始时间和结束时间
+2019-07-21 02:17:40,140-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:40,191-acceptverify.py-INFO-等待框消失
+2019-07-21 02:17:41,692-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:41,744-acceptverify.py-INFO-等待框消失
+2019-07-21 02:17:42,244-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETA"]')
+2019-07-21 02:17:42,244-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETA"]')
+2019-07-21 02:17:42,768-acceptverify.py-INFO-2019-07-01的年月：20190701
+2019-07-21 02:17:43,768-basepage-INFO-在获取元素：('xpath', '//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:17:43,768-basepage-INFO-查找元素：('xpath', '//strong[contains(text(),"年")]')
+2019-07-21 02:17:43,835-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:17:43,835-basepage-INFO-在点击元素：('xpath', '//div[text()="1日"]')
+2019-07-21 02:17:43,835-basepage-INFO-查找元素：('xpath', '//div[text()="1日"]')
+2019-07-21 02:17:44,121-acceptverify.py-INFO-输入EAT开始时间:2019-07-01
+2019-07-21 02:17:45,122-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:45,176-acceptverify.py-INFO-等待框消失
+2019-07-21 02:17:45,676-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETA"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:17:45,676-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETA"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:17:45,814-acceptverify.py-INFO-2019-07-09的年月：20190709
+2019-07-21 02:17:46,815-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"content__active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:17:46,815-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"content__active")]//strong[contains(text(),"年")]')
+2019-07-21 02:17:46,867-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:17:46,867-basepage-INFO-在点击元素：('xpath', '//button[contains(@class,"flat")]//div[text()="9日"]')
+2019-07-21 02:17:46,867-basepage-INFO-查找元素：('xpath', '//button[contains(@class,"flat")]//div[text()="9日"]')
+2019-07-21 02:17:47,056-acceptverify.py-INFO-输入EAT结束时间:2019-07-09
+2019-07-21 02:17:47,056-TestAcceptVerify.py-INFO-输入ETA起始时间：2019-07-01和ETA结束时间：2019-07-09
+2019-07-21 02:17:47,056-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:17:47,056-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:17:47,282-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:17:49,283-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:49,325-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:17:50,326-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:50,360-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:17:51,360-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:51,408-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:17:52,409-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:17:52,438-acceptverify.py-INFO-等待框消失
+2019-07-21 02:17:52,938-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:17:52,984-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:18:03,070-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', '5t7ipHS', '999', '5t7ipHS', '', '', '5t7ipHS', '納入指示済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', '5t7ipHS', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-15'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'FA41iMQ', '999', 'FA41iMQ', '', '', 'FA41iMQ', '受入確認済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', 'FA41iMQ', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-21'], ['check_box_outline_blank', 'DzyRABI', '999', 'DzyRABI', '2019-07-17', '18:00:00', 'DzyRABI', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'DzyRABI', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-17'], ['check_box_outline_blank', 'Wp8EfcA', '999', 'Wp8EfcA', '2019-07-20', '10:00:00', 'Wp8EfcA', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'Wp8EfcA', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20']]
+2019-07-21 02:18:03,071-TestAcceptVerify.py-INFO-测试用例：输入eta开始时间和结束时间  测试通过
+2019-07-21 02:18:40,423-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:18:41,423-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:41,455-acceptverify.py-INFO-等待框消失
+2019-07-21 02:18:41,958-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:18:41,958-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:18:42,081-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:18:42,081-TestAcceptVerify.py-INFO-现在开始测试：输入相同的eta开始时间和结束时间
+2019-07-21 02:18:43,081-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:43,108-acceptverify.py-INFO-等待框消失
+2019-07-21 02:18:44,615-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:44,651-acceptverify.py-INFO-等待框消失
+2019-07-21 02:18:45,151-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETA"]')
+2019-07-21 02:18:45,151-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETA"]')
+2019-07-21 02:18:45,600-acceptverify.py-INFO-2019-07-08的年月：20190708
+2019-07-21 02:18:46,600-basepage-INFO-在获取元素：('xpath', '//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:18:46,600-basepage-INFO-查找元素：('xpath', '//strong[contains(text(),"年")]')
+2019-07-21 02:18:46,675-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:18:46,675-basepage-INFO-在点击元素：('xpath', '//div[text()="8日"]')
+2019-07-21 02:18:46,675-basepage-INFO-查找元素：('xpath', '//div[text()="8日"]')
+2019-07-21 02:18:46,954-acceptverify.py-INFO-输入EAT开始时间:2019-07-08
+2019-07-21 02:18:47,955-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:47,991-acceptverify.py-INFO-等待框消失
+2019-07-21 02:18:48,491-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETA"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:18:48,491-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETA"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:18:48,631-acceptverify.py-INFO-2019-07-08的年月：20190708
+2019-07-21 02:18:49,631-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"content__active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:18:49,631-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"content__active")]//strong[contains(text(),"年")]')
+2019-07-21 02:18:49,679-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:18:49,679-basepage-INFO-在点击元素：('xpath', '//button[contains(@class,"flat")]//div[text()="8日"]')
+2019-07-21 02:18:49,679-basepage-INFO-查找元素：('xpath', '//button[contains(@class,"flat")]//div[text()="8日"]')
+2019-07-21 02:18:49,871-acceptverify.py-INFO-输入EAT结束时间:2019-07-08
+2019-07-21 02:18:49,872-TestAcceptVerify.py-INFO-输入ETA起始时间：2019-07-08和ETA结束时间：2019-07-08
+2019-07-21 02:18:49,872-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:18:49,872-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:18:50,368-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:18:52,368-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:52,409-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:18:53,409-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:53,452-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:18:54,452-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:54,486-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:18:55,486-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:18:55,511-acceptverify.py-INFO-等待框消失
+2019-07-21 02:18:56,012-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:18:56,061-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:19:06,488-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', '5t7ipHS', '999', '5t7ipHS', '', '', '5t7ipHS', '納入指示済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', '5t7ipHS', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-15'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'FA41iMQ', '999', 'FA41iMQ', '', '', 'FA41iMQ', '受入確認済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', 'FA41iMQ', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-21'], ['check_box_outline_blank', 'DzyRABI', '999', 'DzyRABI', '2019-07-17', '18:00:00', 'DzyRABI', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'DzyRABI', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-17'], ['check_box_outline_blank', 'Wp8EfcA', '999', 'Wp8EfcA', '2019-07-20', '10:00:00', 'Wp8EfcA', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'Wp8EfcA', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20']]
+2019-07-21 02:19:06,489-TestAcceptVerify.py-INFO-测试用例：输入相同的eta开始时间和结束时间  测试通过
+2019-07-21 02:19:43,800-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:19:44,800-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:44,847-acceptverify.py-INFO-等待框消失
+2019-07-21 02:19:45,348-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:19:45,349-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:19:45,647-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:19:45,647-TestAcceptVerify.py-INFO-现在开始测试：只输入etd开始时间
+2019-07-21 02:19:46,647-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:46,762-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:19:47,762-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:47,792-acceptverify.py-INFO-等待框消失
+2019-07-21 02:19:49,293-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:49,319-acceptverify.py-INFO-等待框消失
+2019-07-21 02:19:49,819-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETD"]')
+2019-07-21 02:19:49,819-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETD"]')
+2019-07-21 02:19:50,077-acceptverify.py-INFO-2019-06-01的年月：20190601
+2019-07-21 02:19:51,078-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:19:51,078-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:19:51,149-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:19:51,149-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:19:51,149-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:19:52,339-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:19:52,339-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:19:52,385-acceptverify.py-INFO-时间插件上的年月：2019年6月
+2019-07-21 02:19:52,385-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//div[text()="1日"]')
+2019-07-21 02:19:52,386-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//div[text()="1日"]')
+2019-07-21 02:19:52,575-acceptverify.py-INFO-输入ETD开始时间:2019-06-01
+2019-07-21 02:19:52,576-TestAcceptVerify.py-INFO-输入ETD起始时间：2019-06-01和ETD结束时间：null
+2019-07-21 02:19:52,576-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:19:52,576-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:19:52,778-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:19:54,780-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:54,811-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:19:55,812-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:55,852-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:19:56,852-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:56,912-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:19:57,913-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:19:57,936-acceptverify.py-INFO-等待框消失
+2019-07-21 02:19:58,436-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:19:58,476-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:20:08,081-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', '19S0000405', '006', '19S0000405', '2019-07-19', '20:42:00', 'SITYATOG308382', '受入確認済', '2019-06-25', '2019-06-22', '2019-06-22', '東京港', 'A12TC32AEA', 'ＡＱＵＯＳ（ＬＣＤ\u3000ＴＶ）', '910', 'SITC SHENZHEN', '029009:SJL（株）－阪急阪神エクスプレス', '029010:SJL－横浜物流（株）', '40FEET(HIGH CUBE)', '2019-06-24', '', '栃木物流センター（３２－００）', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '19S0000317', '002', '', '2019-07-21', '01:39:00', 'SNL9SHJLA1E0095', '納入指示済', '2019-06-17', '2019-06-13', '2019-06-13', '東京港', 'A1AUJ22NY', 'エアコン室外機', '496', 'SINOTRANS SHANGHAI', '029010:SJL－横浜物流（株）', '029011:SJL－鴻池運輸（株）', '40FEET(HIGH CUBE)', '2019-06-19', '', '首都圏物流センター（市川）３６－００', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', '5t7ipHS', '999', '5t7ipHS', '', '', '5t7ipHS', '納入指示済', '2019-07-08', '2019-07-26', '2019-07-08', '大阪港', 'A1AUJ40EEY', 'エアコン室外機', '1', '5t7ipHS', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-15', '', '西日本ＬＣ（藤井寺）（０１－００）', '2019-07-15'], ['check_box_outline_blank', '19S0000140', '005', 'TESTNoUp150444', '2019-07-17', '15:05:00', 'GAT0139200', '納入指示済', '2019-06-19', '2019-06-11', '2019-06-11', '大阪港', 'A2FUM30D', '空気清浄機', '980', 'TS OSAKA', '029000:SJL（株）－日新', '029005:SJL（株）－トレーディア', '40FEET(HIGH CUBE)', '2019-06-21', '', '西日本ＬＣ（大阪物流Ｃ）（０２－００）', '2019-07-18'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19']]
+2019-07-21 02:20:08,082-TestAcceptVerify.py-INFO-测试用例：只输入etd开始时间  测试通过
+2019-07-21 02:20:43,187-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:20:44,188-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:20:44,228-acceptverify.py-INFO-等待框消失
+2019-07-21 02:20:44,728-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:20:44,728-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:20:44,880-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:20:44,881-TestAcceptVerify.py-INFO-现在开始测试：根据ETD 结束日期搜索数据
+2019-07-21 02:20:45,884-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:20:45,933-acceptverify.py-INFO-等待框消失
+2019-07-21 02:20:47,433-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:20:47,464-acceptverify.py-INFO-等待框消失
+2019-07-21 02:20:47,964-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETD"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:20:47,964-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETD"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:20:48,368-acceptverify.py-INFO-2019-06-30的年月：20190630
+2019-07-21 02:20:49,373-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:20:49,375-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:20:49,491-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:20:49,492-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:20:49,492-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:20:50,803-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:20:50,803-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:20:50,883-acceptverify.py-INFO-时间插件上的年月：2019年6月
+2019-07-21 02:20:50,883-basepage-INFO-在点击元素：('xpath', '//strong[contains(text(),"年")]/parent::div/parent::div/following-sibling::div//div[text()="30日"]')
+2019-07-21 02:20:50,883-basepage-INFO-查找元素：('xpath', '//strong[contains(text(),"年")]/parent::div/parent::div/following-sibling::div//div[text()="30日"]')
+2019-07-21 02:20:51,214-acceptverify.py-INFO-输入ETD结束时间:2019-06-30
+2019-07-21 02:20:51,215-TestAcceptVerify.py-INFO-输入ETD起始时间：null和ETD结束时间：2019-06-30
+2019-07-21 02:20:51,215-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:20:51,215-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:20:51,485-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:20:53,485-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:20:53,516-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:20:54,516-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:20:54,559-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:20:55,559-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:20:55,592-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:20:56,593-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:20:56,627-acceptverify.py-INFO-等待框消失
+2019-07-21 02:20:57,128-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:20:57,193-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:21:07,273-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', '19S0000405', '006', '19S0000405', '2019-07-19', '20:42:00', 'SITYATOG308382', '受入確認済', '2019-06-25', '2019-06-22', '2019-06-22', '東京港', 'A12TC32AEA', 'ＡＱＵＯＳ（ＬＣＤ\u3000ＴＶ）', '910', 'SITC SHENZHEN', '029009:SJL（株）－阪急阪神エクスプレス', '029010:SJL－横浜物流（株）', '40FEET(HIGH CUBE)', '2019-06-24', '', '栃木物流センター（３２－００）', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '19S0000317', '002', '', '2019-07-21', '01:39:00', 'SNL9SHJLA1E0095', '納入指示済', '2019-06-17', '2019-06-13', '2019-06-13', '東京港', 'A1AUJ22NY', 'エアコン室外機', '496', 'SINOTRANS SHANGHAI', '029010:SJL－横浜物流（株）', '029011:SJL－鴻池運輸（株）', '40FEET(HIGH CUBE)', '2019-06-19', '', '首都圏物流センター（市川）３６－００', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', '19S0000140', '005', 'TESTNoUp150444', '2019-07-17', '15:05:00', 'GAT0139200', '納入指示済', '2019-06-19', '2019-06-11', '2019-06-11', '大阪港', 'A2FUM30D', '空気清浄機', '980', 'TS OSAKA', '029000:SJL（株）－日新', '029005:SJL（株）－トレーディア', '40FEET(HIGH CUBE)', '2019-06-21', '', '西日本ＬＣ（大阪物流Ｃ）（０２－００）', '2019-07-18'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '19S0000306', '005', 'TESTNoUp102030', '2019-07-17', '10:21:00', '0299510706', '納入指示済', '2019-06-24', '2019-06-17', '2019-06-17', '大阪港', 'A1AC22JFT', 'エアコン室内機', '432', 'ZHONG HANG 313', '029000:SJL（株）－日新', '029008:SJL（株）－郵船港運', '40FEET(HIGH CUBE)', '2019-06-24', '', '西日本ＬＣ（大阪物流Ｃ）（３３－００）', '2019-07-04']]
+2019-07-21 02:21:07,274-TestAcceptVerify.py-INFO-测试用例：根据ETD 结束日期搜索数据  测试通过
+2019-07-21 02:21:40,510-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:21:41,510-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:41,553-acceptverify.py-INFO-等待框消失
+2019-07-21 02:21:42,053-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:21:42,053-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:21:42,207-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:21:42,207-TestAcceptVerify.py-INFO-现在开始测试：输入相同etd开始时间和结束时间
+2019-07-21 02:21:43,208-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:43,262-acceptverify.py-INFO-等待框消失
+2019-07-21 02:21:44,762-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:44,791-acceptverify.py-INFO-等待框消失
+2019-07-21 02:21:45,292-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETD"]')
+2019-07-21 02:21:45,292-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETD"]')
+2019-07-21 02:21:45,645-acceptverify.py-INFO-2019-06-06的年月：20190606
+2019-07-21 02:21:46,645-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:21:46,645-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:21:46,708-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:21:46,708-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:21:46,708-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:21:47,891-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:21:47,891-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:21:47,938-acceptverify.py-INFO-时间插件上的年月：2019年6月
+2019-07-21 02:21:47,939-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//div[text()="6日"]')
+2019-07-21 02:21:47,939-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//div[text()="6日"]')
+2019-07-21 02:21:48,158-acceptverify.py-INFO-输入ETD开始时间:2019-06-06
+2019-07-21 02:21:49,158-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:49,184-acceptverify.py-INFO-等待框消失
+2019-07-21 02:21:49,684-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETD"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:21:49,684-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETD"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:21:49,874-acceptverify.py-INFO-2019-06-06的年月：20190606
+2019-07-21 02:21:50,874-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:21:50,874-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:21:50,942-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:21:50,942-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:21:50,942-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:21:52,188-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:21:52,188-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:21:52,249-acceptverify.py-INFO-时间插件上的年月：2019年6月
+2019-07-21 02:21:52,249-basepage-INFO-在点击元素：('xpath', '//strong[contains(text(),"年")]/parent::div/parent::div/following-sibling::div//div[text()="6日"]')
+2019-07-21 02:21:52,250-basepage-INFO-查找元素：('xpath', '//strong[contains(text(),"年")]/parent::div/parent::div/following-sibling::div//div[text()="6日"]')
+2019-07-21 02:21:52,458-acceptverify.py-INFO-输入ETD结束时间:2019-06-06
+2019-07-21 02:21:52,459-TestAcceptVerify.py-INFO-输入ETD起始时间：2019-06-06和ETD结束时间：2019-06-06
+2019-07-21 02:21:52,459-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:21:52,459-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:21:52,642-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:21:54,642-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:54,669-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:21:55,670-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:55,705-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:21:56,706-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:56,783-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:21:57,783-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:21:57,810-acceptverify.py-INFO-等待框消失
+2019-07-21 02:21:58,311-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:21:58,353-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:22:08,112-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'DzyRABI', '999', 'DzyRABI', '2019-07-17', '18:00:00', 'DzyRABI', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'DzyRABI', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-17'], ['check_box_outline_blank', 'Wp8EfcA', '999', 'Wp8EfcA', '2019-07-20', '10:00:00', 'Wp8EfcA', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'Wp8EfcA', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'WoQkZ1T', '999', 'WoQkZ1T', '2019-07-19', '10:00:00', 'WoQkZ1T', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'WoQkZ1T', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', 'BrjZnuA', '999', 'BrjZnuA', '2019-07-19', '10:00:00', 'BrjZnuA', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'BrjZnuA', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19']]
+2019-07-21 02:22:08,113-TestAcceptVerify.py-INFO-测试用例：输入相同etd开始时间和结束时间  测试通过
+2019-07-21 02:22:37,539-TestAcceptVerify.py-INFO-进行登录
+2019-07-21 02:22:38,539-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:38,583-acceptverify.py-INFO-等待框消失
+2019-07-21 02:22:39,083-basepage-INFO-在点击受入確認点击元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:22:39,083-basepage-INFO-查找元素：('xpath', '//div/div[text()="受入確認"]')
+2019-07-21 02:22:39,256-TestAcceptVerify.py-INFO-点击受入确认
+2019-07-21 02:22:39,257-TestAcceptVerify.py-INFO-现在开始测试：输入etd开始时间和结束时间
+2019-07-21 02:22:40,257-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:40,290-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:22:41,290-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:41,336-acceptverify.py-INFO-等待框消失
+2019-07-21 02:22:42,836-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:42,860-acceptverify.py-INFO-等待框消失
+2019-07-21 02:22:43,360-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETD"]')
+2019-07-21 02:22:43,360-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETD"]')
+2019-07-21 02:22:43,602-acceptverify.py-INFO-2019-06-01的年月：20190601
+2019-07-21 02:22:44,602-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:22:44,603-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:22:44,695-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:22:44,696-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:22:44,696-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:22:46,046-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:22:46,046-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:22:46,125-acceptverify.py-INFO-时间插件上的年月：2019年6月
+2019-07-21 02:22:46,125-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//div[text()="1日"]')
+2019-07-21 02:22:46,125-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//div[text()="1日"]')
+2019-07-21 02:22:46,399-acceptverify.py-INFO-输入ETD开始时间:2019-06-01
+2019-07-21 02:22:47,399-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:47,429-acceptverify.py-INFO-等待框消失
+2019-07-21 02:22:47,929-basepage-INFO-在点击元素：('xpath', '//main//input[@aria-label="ETD"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:22:47,929-basepage-INFO-查找元素：('xpath', '//main//input[@aria-label="ETD"]/ancestor::div[@class="flex md6 pr-2"]/following-sibling::div//div[@class="v-text-field__slot"]/input')
+2019-07-21 02:22:48,172-acceptverify.py-INFO-2019-06-30的年月：20190630
+2019-07-21 02:22:49,172-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:22:49,172-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:22:49,212-acceptverify.py-INFO-时间插件上的年月：2019年7月
+2019-07-21 02:22:49,212-basepage-INFO-在点击元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:22:49,213-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//i[text()="chevron_left"]')
+2019-07-21 02:22:50,319-basepage-INFO-在获取元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]') 的文本内容
+2019-07-21 02:22:50,319-basepage-INFO-查找元素：('xpath', '//div[contains(@class,"active")]//strong[contains(text(),"年")]')
+2019-07-21 02:22:50,362-acceptverify.py-INFO-时间插件上的年月：2019年6月
+2019-07-21 02:22:50,362-basepage-INFO-在点击元素：('xpath', '//strong[contains(text(),"年")]/parent::div/parent::div/following-sibling::div//div[text()="30日"]')
+2019-07-21 02:22:50,362-basepage-INFO-查找元素：('xpath', '//strong[contains(text(),"年")]/parent::div/parent::div/following-sibling::div//div[text()="30日"]')
+2019-07-21 02:22:50,627-acceptverify.py-INFO-输入ETD结束时间:2019-06-30
+2019-07-21 02:22:50,627-TestAcceptVerify.py-INFO-输入ETD起始时间：2019-06-01和ETD结束时间：2019-06-30
+2019-07-21 02:22:50,628-basepage-INFO-在点击検索按钮点击元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:22:50,628-basepage-INFO-查找元素：('xpath', '//div[text()="検索"]')
+2019-07-21 02:22:50,823-acceptverify.py-INFO-点击検索按钮
+2019-07-21 02:22:52,825-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:52,933-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:22:53,934-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:53,984-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:22:54,985-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:55,026-acceptverify.py-INFO-等待中。。。。
+2019-07-21 02:22:56,027-basepage-INFO-查找元素：('xpath', '//div[contains(text(),"只今")]/ancestor::div[contains(@class,"persistent")]')
+2019-07-21 02:22:56,072-acceptverify.py-INFO-等待框消失
+2019-07-21 02:22:56,572-basepage-INFO-查找元素：('xpath', '//table[contains(@class,"v-datatable")]')
+2019-07-21 02:22:56,614-acceptverify.py-INFO-找到查询结果的表格
+2019-07-21 02:23:04,695-TestAcceptVerify.py-INFO-查询结果：[['check_box_outline_blank', 'NTcFjug', '999', 'NTcFjug', '2019-07-20', '10:00:00', 'NTcFjug', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCJ50W', '空気清浄機', '1', 'NTcFjug', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-20', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', '19S0000405', '006', '19S0000405', '2019-07-19', '20:42:00', 'SITYATOG308382', '受入確認済', '2019-06-25', '2019-06-22', '2019-06-22', '東京港', 'A12TC32AEA', 'ＡＱＵＯＳ（ＬＣＤ\u3000ＴＶ）', '910', 'SITC SHENZHEN', '029009:SJL（株）－阪急阪神エクスプレス', '029010:SJL－横浜物流（株）', '40FEET(HIGH CUBE)', '2019-06-24', '', '栃木物流センター（３２－００）', '2019-07-20'], ['check_box_outline_blank', 'yU3HYKD', '999', 'yU3HYKD', '2019-07-19', '18:00:00', 'yU3HYKD', 'DO諸掛登録済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'yU3HYKD', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '19S0000317', '002', '', '2019-07-21', '01:39:00', 'SNL9SHJLA1E0095', '納入指示済', '2019-06-17', '2019-06-13', '2019-06-13', '東京港', 'A1AUJ22NY', 'エアコン室外機', '496', 'SINOTRANS SHANGHAI', '029010:SJL－横浜物流（株）', '029011:SJL－鴻池運輸（株）', '40FEET(HIGH CUBE)', '2019-06-19', '', '首都圏物流センター（市川）３６－００', '2019-07-19'], ['check_box_outline_blank', 'PvpO1mx', '999', 'PvpO1mx', '2019-07-20', '13:33:00', 'PvpO1mx', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1IGKTA20W', 'イオン発生機用交換ユニット', '1', 'PvpO1mx', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-17', '', 'ジャパネット佐屋センター', '2019-07-20'], ['check_box_outline_blank', 'dKpS3RC', '999', 'dKpS3RC', '2019-07-19', '10:00:00', 'dKpS3RC', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'dKpS3RC', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '3NDkpmY', '999', '3NDkpmY', '2019-07-18', '10:00:00', '3NDkpmY', '納入指示済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', '3NDkpmY', '029001:SJL（株）－南海エクスプレス', '029000:SJL（株）－日新', '20FEET', '2019-07-18', '', 'ジャパネット佐屋センター', '2019-07-18'], ['check_box_outline_blank', '19S0000140', '005', 'TESTNoUp150444', '2019-07-17', '15:05:00', 'GAT0139200', '納入指示済', '2019-06-19', '2019-06-11', '2019-06-11', '大阪港', 'A2FUM30D', '空気清浄機', '980', 'TS OSAKA', '029000:SJL（株）－日新', '029005:SJL（株）－トレーディア', '40FEET(HIGH CUBE)', '2019-06-21', '', '西日本ＬＣ（大阪物流Ｃ）（０２－００）', '2019-07-18'], ['check_box_outline_blank', 'KXbiztY', '999', 'KXbiztY', '2019-07-19', '10:00:00', 'KXbiztY', '受入確認済', '2019-07-08', '2019-06-06', '2019-07-08', '大阪港', 'A1KCHD70W', '空気清浄機', '1', 'KXbiztY', '029001:SJL（株）－南海エクスプレス', ':', '20FEET', '2019-07-19', '', 'ジャパネット佐屋センター', '2019-07-19'], ['check_box_outline_blank', '19S0000306', '005', 'TESTNoUp102030', '2019-07-17', '10:21:00', '0299510706', '納入指示済', '2019-06-24', '2019-06-17', '2019-06-17', '大阪港', 'A1AC22JFT', 'エアコン室内機', '432', 'ZHONG HANG 313', '029000:SJL（株）－日新', '029008:SJL（株）－郵船港運', '40FEET(HIGH CUBE)', '2019-06-24', '', '西日本ＬＣ（大阪物流Ｃ）（３３－００）', '2019-07-04']]
+2019-07-21 02:23:04,696-TestAcceptVerify.py-INFO-测试用例：输入etd开始时间和结束时间  测试通过

@@ -1,0 +1,23 @@
+2019-07-21 03:48:37,313 - 测试 - ERROR - ('用例描述：', '输入None', ' 执行send_keys方法时不通过!')
+2019-07-21 03:48:37,314 - 测试 - ERROR - object of type 'NoneType' has no len()
+2019-07-21 04:03:12,783 - 测试 - ERROR - ('用例描述：', '输入None', ' 执行send_keys方法时不通过!')
+2019-07-21 04:03:12,784 - 测试 - ERROR - object of type 'NoneType' has no len()
+2019-07-21 04:38:19,899 - 测试 - ERROR - ('用例描述：', '课税1', ' 执行send_keys方法时不通过!')
+2019-07-21 04:38:19,901 - 测试 - ERROR - 0
+2019-07-21 04:49:17,530 - 测试 - ERROR - ('用例描述：', 'DO编辑', ' 执行click方法时不通过!')
+2019-07-21 04:49:17,532 - 测试 - ERROR - Message: element click intercepted: Element <div>...</div> is not clickable at point (952, 350). Other element would receive the click: <div class="v-input v-text-field theme--light">...</div>
+  (Session info: chrome=74.0.3724.8)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-07-21 04:59:04,638 - 测试 - ERROR - ('用例描述：', 'doNO检索', ' 执行send_keys方法时不通过!')
+2019-07-21 04:59:04,640 - 测试 - ERROR - 0
+2019-07-21 05:01:09,494 - 测试 - ERROR - ('用例描述：', 'DO和BL结束日期日期检索', ' 执行send_keys方法时不通过!')
+2019-07-21 05:01:09,495 - 测试 - ERROR - 0
+2019-07-21 05:03:44,341 - 测试 - ERROR - ('用例描述：', 'DO、集装箱NO和BL结束日期', ' 执行send_keys方法时不通过!')
+2019-07-21 05:03:44,342 - 测试 - ERROR - 0
+2019-07-21 05:04:54,468 - 测试 - ERROR - ('用例描述：', 'DO、集装箱NO和BL开始日期', ' 执行send_keys方法时不通过!')
+2019-07-21 05:04:54,470 - 测试 - ERROR - 0
+2019-07-21 05:09:19,196 - 测试 - ERROR - ('用例描述：', 'DO、集装箱NO和状态', ' 执行send_keys方法时不通过!')
+2019-07-21 05:09:19,198 - 测试 - ERROR - 0
+2019-07-21 05:33:04,489 - 测试 - ERROR - ('用例描述：', 'DONO,集装箱NO和运输形态，到达港检索', ' 执行send_keys方法时不通过!')
+2019-07-21 05:33:04,491 - 测试 - ERROR - 0

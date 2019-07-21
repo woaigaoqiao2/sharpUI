@@ -1,0 +1,7 @@
+login:
+    url: "https://sharpsit.jusdaglobal.com/"
+    name: '//*[@type="text"]'
+    password: '//*[@aria-label="パスワード"]'
+    denglu_btm: '//*[@id="app"]/div[5]/main/div/div[1]/div/div[3]/button/div'
+
+
